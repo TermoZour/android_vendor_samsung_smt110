@@ -1,0 +1,73 @@
+-----BEGIN CERTIFICATE-----
+MIIDwTCCA0igAwIBAgIQPQmyT1wIp86OuFpR08GqUjAKBggqhkjOPQQDAzCBiDEL
+MAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0plcnNl
+eSBDaXR5MR4wHAYDVQQKExVUaGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNVBAMT
+JVVTRVJUcnVzdCBFQ0MgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTMwNDE1
+MDAwMDAwWhcNMjgwNDE0MjM1OTU5WjCBlTELMAkGA1UEBhMCVVMxEzARBgNVBAgT
+Ck5ldyBKZXJzZXkxFDASBgNVBAcTC0plcnNleSBDaXR5MR4wHAYDVQQKExVUaGUg
+VVNFUlRSVVNUIE5ldHdvcmsxOzA5BgNVBAMTMlVTRVJUcnVzdCBFQ0MgRXh0ZW5k
+ZWQgVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENBMFkwEwYHKoZIzj0CAQYIKoZI
+zj0DAQcDQgAEkSRGk0F0N82ZCZ+kVZ/StqVUiWRirw1ebViS06+j+HgS9xZKRGh7
+bqSas/gNMyg1LZusGu5IvEmXmNC5hzOT06OCAYMwggF/MB8GA1UdIwQYMBaAFDrh
+CYbUzxnClnZ0SXbc4DXGY2OaMB0GA1UdDgQWBBQqnFr5TqEw2kBLK+lL8fWc3AL5
+LjAOBgNVHQ8BAf8EBAMCAYYwEgYDVR0TAQH/BAgwBgEB/wIBADA/BgNVHSAEODA2
+MDQGBFUdIAAwLDAqBggrBgEFBQcCARYeaHR0cHM6Ly9jcHMudHJ1c3QtcHJvdmlk
+ZXIuY29tMFUGA1UdHwROMEwwSqBIoEaGRGh0dHA6Ly9jcmwudHJ1c3QtcHJvdmlk
+ZXIuY29tL1VTRVJUcnVzdEVDQ0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMIGA
+BggrBgEFBQcBAQR0MHIwRAYIKwYBBQUHMAKGOGh0dHA6Ly9jcnQudHJ1c3QtcHJv
+dmlkZXIuY29tL1VTRVJUcnVzdEVDQ0FkZFRydXN0Q0EuY3J0MCoGCCsGAQUFBzAB
+hh5odHRwOi8vb2NzcC50cnVzdC1wcm92aWRlci5jb20wCgYIKoZIzj0EAwMDZwAw
+ZAIwSzIqrW8TN9/aCfkhUtz0t8IIK+Z46z3wm+crwjThpQ/VoPgTNbvP/lGTi1xR
+qJvLAjBFa27l4uqeAQZHNJnIx1Mu9OXzoJelx1cYP7ToQUms/g+PK77yImJcXUU3
+s1rWGRU=
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            3d:09:b2:4f:5c:08:a7:ce:8e:b8:5a:51:d3:c1:aa:52
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+        Validity
+            Not Before: Apr 15 00:00:00 2013 GMT
+            Not After : Apr 14 23:59:59 2028 GMT
+        Subject: C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Extended Validation Secure Server CA
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+            EC Public Key:
+                pub: 
+                    04:91:24:46:93:41:74:37:cd:99:09:9f:a4:55:9f:
+                    d2:b6:a5:54:89:64:62:af:0d:5e:6d:58:92:d3:af:
+                    a3:f8:78:12:f7:16:4a:44:68:7b:6e:a4:9a:b3:f8:
+                    0d:33:28:35:2d:9b:ac:1a:ee:48:bc:49:97:98:d0:
+                    b9:87:33:93:d3
+                ASN1 OID: prime256v1
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:3A:E1:09:86:D4:CF:19:C2:96:76:74:49:76:DC:E0:35:C6:63:63:9A
+
+            X509v3 Subject Key Identifier: 
+                2A:9C:5A:F9:4E:A1:30:DA:40:4B:2B:E9:4B:F1:F5:9C:DC:02:F9:2E
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://cps.trust-provider.com
+
+            X509v3 CRL Distribution Points: 
+                URI:http://crl.trust-provider.com/USERTrustECCCertificationAuthority.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.trust-provider.com/USERTrustECCAddTrustCA.crt
+                OCSP - URI:http://ocsp.trust-provider.com
+
+    Signature Algorithm: ecdsa-with-SHA384
+        30:64:02:30:4b:32:2a:ad:6f:13:37:df:da:09:f9:21:52:dc:
+        f4:b7:c2:08:2b:e6:78:eb:3d:f0:9b:e7:2b:c2:34:e1:a5:0f:
+        d5:a0:f8:13:35:bb:cf:fe:51:93:8b:5c:51:a8:9b:cb:02:30:
+        45:6b:6e:e5:e2:ea:9e:01:06:47:34:99:c8:c7:53:2e:f4:e5:
+        f3:a0:97:a5:c7:57:18:3f:b4:e8:41:49:ac:fe:0f:8f:2b:be:
+        f2:22:62:5c:5d:45:37:b3:5a:d6:19:15
+SHA1 Fingerprint=FA:3B:3B:3C:48:A2:8F:0A:68:9C:56:D6:33:55:44:20:F7:08:99:E3

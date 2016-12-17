@@ -1,0 +1,107 @@
+-----BEGIN CERTIFICATE-----
+MIIFzDCCBLSgAwIBAgIOHFAAAQAChUNZ8fMuzSYwDQYJKoZIhvcNAQEFBQAwdjEL
+MAkGA1UEBhMCREUxHDAaBgNVBAoTE1RDIFRydXN0Q2VudGVyIEdtYkgxIjAgBgNV
+BAsTGVRDIFRydXN0Q2VudGVyIENsYXNzIDIgQ0ExJTAjBgNVBAMTHFRDIFRydXN0
+Q2VudGVyIENsYXNzIDIgQ0EgSUkwHhcNMDkxMTAzMTQwODI2WhcNMjUxMjMxMjE1
+OTU5WjB8MQswCQYDVQQGEwJERTEcMBoGA1UEChMTVEMgVHJ1c3RDZW50ZXIgR21i
+SDElMCMGA1UECxMcVEMgVHJ1c3RDZW50ZXIgQ2xhc3MgMiBMMSBDQTEoMCYGA1UE
+AxMfVEMgVHJ1c3RDZW50ZXIgQ2xhc3MgMiBMMSBDQSBYSTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAL0XRvSZBlfJtKmVowy0ffFdXC9Z2fLelDo6rs83
+8pdU71hjZGdgHUMO2ZbPZDNNHM3+yLRTnSx/8mjDl/+PFEEmcp5zwt1Gyvl0JKf1
+DIFBwfI3YrXyotJB+lOyI6+b2wSb7mQ1crAykWCZVQzG6cmIl/mjaQ7lD8r364ow
+qCFAkCK+vq4KpUvrkBOpcKbVQ77vb/XxlO6xHuu5g6BCv82Ld5ag2DiWG/GDVJdh
+Usd+pf10Nmaz1pkXBlFCquU0o/N6YWBLEs0343IPku0QfTr2Um05fQzv1b+P7PBC
+HZaI74UfheLTAEfCEhvrq+7mxj6V6F/j91Kcox9AFOJUMsUCAwEAAaOCAlAwggJM
+MIGVBggrBgEFBQcBAQSBiDCBhTBPBggrBgEFBQcwAoZDaHR0cDovL3d3dy50cnVz
+dGNlbnRlci5kZS9jZXJ0c2VydmljZXMvY2FjZXJ0cy90Y19jbGFzc18yX2NhX0lJ
+LmNydDAyBggrBgEFBQcwAYYmaHR0cDovL29jc3AudGNjbGFzczItSUkudHJ1c3Rj
+ZW50ZXIuZGUwHwYDVR0jBBgwFoAU46tUTICh21ZDt5FKy/OCehNcCKswEgYDVR0T
+AQH/BAgwBgEB/wIBADBSBgNVHSAESzBJMAYGBFUdIAAwPwYJKoIUACwBAQECMDIw
+MAYIKwYBBQUHAgEWJGh0dHA6Ly93d3cudHJ1c3RjZW50ZXIuZGUvZ3VpZGVsaW5l
+czAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFGazxpH5ts2yX5o3VkYM4mvVsXy0
+MIH5BgNVHR8EgfEwge4wgeuggeiggeWGQWh0dHA6Ly9jcmwudGNjbGFzczItaWku
+dHJ1c3RjZW50ZXIuZGUvY3JsL3YyL3RjX2NsYXNzXzJfY2FfSUkuY3JshoGfbGRh
+cDovL3d3dy50cnVzdGNlbnRlci5kZS9DTj1UQyUyMFRydXN0Q2VudGVyJTIwQ2xh
+c3MlMjAyJTIwQ0ElMjBJSSxPPVRDJTIwVHJ1c3RDZW50ZXIlMjBHbWJILE9VPXJv
+b3RjZXJ0cyxEQz10cnVzdGNlbnRlcixEQz1kZT9jZXJ0aWZpY2F0ZVJldm9jYXRp
+b25MaXN0P2Jhc2U/MA0GCSqGSIb3DQEBBQUAA4IBAQBsijTFDpWDTsnIlhTVBXkr
+39sbIxz9XbRl55PPJ/igktuJ40JMNzxywDcDDaXG8RwQpkOnwAbYCsNh+d+7OWuC
+orjdZm3TCFXlERGx0YPgg/nnfzMvihDifVz/hfR2jp1b4Wc+6b3UHrwKwubmnOH7
+/K8xoq311F9E7wysFCjPPXSQOpSZoAhP+C9vbntQLdXANsKD1brJ35xiVrK4o+I6
+MJwOO2YyXhIEPFMMmHV8vLwVoEwV8j0wwzUdUlPAyRgMhFY7uG0uR2Wy6DoqC7GE
+x4b22o02o6z4+keA4NAo8VuPonqM8lD+xGV6dcjsg7dyHMUh6dHA31apMxOAm4j+
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            1c:50:00:01:00:02:85:43:59:f1:f3:2e:cd:26
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Class 2 CA, CN=TC TrustCenter Class 2 CA II
+        Validity
+            Not Before: Nov  3 14:08:26 2009 GMT
+            Not After : Dec 31 21:59:59 2025 GMT
+        Subject: C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Class 2 L1 CA, CN=TC TrustCenter Class 2 L1 CA XI
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:bd:17:46:f4:99:06:57:c9:b4:a9:95:a3:0c:b4:
+                    7d:f1:5d:5c:2f:59:d9:f2:de:94:3a:3a:ae:cf:37:
+                    f2:97:54:ef:58:63:64:67:60:1d:43:0e:d9:96:cf:
+                    64:33:4d:1c:cd:fe:c8:b4:53:9d:2c:7f:f2:68:c3:
+                    97:ff:8f:14:41:26:72:9e:73:c2:dd:46:ca:f9:74:
+                    24:a7:f5:0c:81:41:c1:f2:37:62:b5:f2:a2:d2:41:
+                    fa:53:b2:23:af:9b:db:04:9b:ee:64:35:72:b0:32:
+                    91:60:99:55:0c:c6:e9:c9:88:97:f9:a3:69:0e:e5:
+                    0f:ca:f7:eb:8a:30:a8:21:40:90:22:be:be:ae:0a:
+                    a5:4b:eb:90:13:a9:70:a6:d5:43:be:ef:6f:f5:f1:
+                    94:ee:b1:1e:eb:b9:83:a0:42:bf:cd:8b:77:96:a0:
+                    d8:38:96:1b:f1:83:54:97:61:52:c7:7e:a5:fd:74:
+                    36:66:b3:d6:99:17:06:51:42:aa:e5:34:a3:f3:7a:
+                    61:60:4b:12:cd:37:e3:72:0f:92:ed:10:7d:3a:f6:
+                    52:6d:39:7d:0c:ef:d5:bf:8f:ec:f0:42:1d:96:88:
+                    ef:85:1f:85:e2:d3:00:47:c2:12:1b:eb:ab:ee:e6:
+                    c6:3e:95:e8:5f:e3:f7:52:9c:a3:1f:40:14:e2:54:
+                    32:c5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                CA Issuers - URI:http://www.trustcenter.de/certservices/cacerts/tc_class_2_ca_II.crt
+                OCSP - URI:http://ocsp.tcclass2-II.trustcenter.de
+
+            X509v3 Authority Key Identifier: 
+                keyid:E3:AB:54:4C:80:A1:DB:56:43:B7:91:4A:CB:F3:82:7A:13:5C:08:AB
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                Policy: 1.2.276.0.44.1.1.1.2
+                  CPS: http://www.trustcenter.de/guidelines
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                66:B3:C6:91:F9:B6:CD:B2:5F:9A:37:56:46:0C:E2:6B:D5:B1:7C:B4
+            X509v3 CRL Distribution Points: 
+                URI:http://crl.tcclass2-ii.trustcenter.de/crl/v2/tc_class_2_ca_II.crl
+                URI:ldap://www.trustcenter.de/CN=TC%20TrustCenter%20Class%202%20CA%20II,O=TC%20TrustCenter%20GmbH,OU=rootcerts,DC=trustcenter,DC=de?certificateRevocationList?base?
+
+    Signature Algorithm: sha1WithRSAEncryption
+        6c:8a:34:c5:0e:95:83:4e:c9:c8:96:14:d5:05:79:2b:df:db:
+        1b:23:1c:fd:5d:b4:65:e7:93:cf:27:f8:a0:92:db:89:e3:42:
+        4c:37:3c:72:c0:37:03:0d:a5:c6:f1:1c:10:a6:43:a7:c0:06:
+        d8:0a:c3:61:f9:df:bb:39:6b:82:a2:b8:dd:66:6d:d3:08:55:
+        e5:11:11:b1:d1:83:e0:83:f9:e7:7f:33:2f:8a:10:e2:7d:5c:
+        ff:85:f4:76:8e:9d:5b:e1:67:3e:e9:bd:d4:1e:bc:0a:c2:e6:
+        e6:9c:e1:fb:fc:af:31:a2:ad:f5:d4:5f:44:ef:0c:ac:14:28:
+        cf:3d:74:90:3a:94:99:a0:08:4f:f8:2f:6f:6e:7b:50:2d:d5:
+        c0:36:c2:83:d5:ba:c9:df:9c:62:56:b2:b8:a3:e2:3a:30:9c:
+        0e:3b:66:32:5e:12:04:3c:53:0c:98:75:7c:bc:bc:15:a0:4c:
+        15:f2:3d:30:c3:35:1d:52:53:c0:c9:18:0c:84:56:3b:b8:6d:
+        2e:47:65:b2:e8:3a:2a:0b:b1:84:c7:86:f6:da:8d:36:a3:ac:
+        f8:fa:47:80:e0:d0:28:f1:5b:8f:a2:7a:8c:f2:50:fe:c4:65:
+        7a:75:c8:ec:83:b7:72:1c:c5:21:e9:d1:c0:df:56:a9:33:13:
+        80:9b:88:fe
+SHA1 Fingerprint=4C:37:58:79:7A:AE:43:74:25:FC:D8:D9:CA:7D:1A:B4:64:0D:CE:37
